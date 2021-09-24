@@ -28,7 +28,7 @@
 - Java Scrip
 - Source Film Maker
 
-##Mis favoritos 
+## Mis favoritos
 **Pelicula** : Spiderman No Way Home
 **Videojuego** : Half Life
 **Deporte** : Basketbol
