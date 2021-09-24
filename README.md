@@ -33,7 +33,7 @@
 - Source Film Maker
 
 ## Mis favoritos ❤️ +5
-. **Pelicula** : Spiderman No Way Home
+- **Pelicula** : Spiderman No Way Home
 - **Videojuego** : Half Life 
 - **Deporte** : Basketbol
 - **Color** : Azul
