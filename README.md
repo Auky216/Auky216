@@ -42,12 +42,11 @@
 - **Estacion** : Invierno
 - **Comida** : Chaufa
 - **Curso** : Programacion
-- **Videojuego** : Half Life
 - **Evento** : Navidad
 - **Musica** : Electro y Rock
 
 ## Print("Tu calificacion es de ⭐️20⭐️")
-Gracias por leer todo sobre mi.Se han ganado una parte en mi cozaron, mandame un ":v" en los comentarios para saber.Eres grande ... pero Cristo lo es mas XD.
+Gracias por leer todo sobre mi.Se han ganado una parte en mi corazon, mandame un ":v" en los comentarios para saber.Eres grande ... pero Cristo lo es mas XD.
 
 ## Mis redes sociales 💎💎💎
 <img src="steam.png" alt="" width="39" height="39" align="left"><H2> [Auky](https://steamcommunity.com/profiles/76561198416421609/)</H2>
