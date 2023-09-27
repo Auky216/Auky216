@@ -9,7 +9,7 @@
 
 **Apodo** : Auky
 
-**Edad** : 17
+**Edad** : 19
 
 **Pais** :  🟥⬜️🟥
 
@@ -18,19 +18,27 @@
 - Ver peliculas
 - Dibujar
 - Cocinar
-- Editar fotos y videos
+- Charlar
+- Caminar
 
 ## Programas Usados 🖥 +5
 - Photoshop
 - Ilustrator 
 - Premier
 - After Effects
-- Sony Vegas 15
-- Filmora 9
-- Office
+- Sony Vegas 17
+- Filmora 10
+- Office 365
 - Python
 - Java Scrip
+- HTML
+- CSS
+- Vue
+- C++
+- MatLab
+- Rstudio
 - Source Film Maker
+- AWS Services
 
 ## Mis favoritos ❤️ +5
 - **Pelicula** : Spiderman No Way Home
@@ -38,17 +46,18 @@
 - **Deporte** : Basketbol
 - **Color** : Azul
 - **Memes** : Shitposting
-- **Red Social** : Facebook
+- **Red Social** : IG
 - **Estacion** : Invierno
 - **Comida** : Chaufa
 - **Curso** : Programacion
 - **Evento** : Navidad
-- **Musica** : Electro y Rock
+- **Musica** : De todo :)
 
 ## Print("Tu calificacion es de ⭐️20⭐️")
-Gracias por leer todo sobre mi.Se han ganado una parte en mi corazon, mandame un ":v" en los comentarios para saber.Eres grande ... pero Cristo lo es mas XD.
+- (1 CICLO) Gracias por leer todo sobre mi.Se han ganado una parte en mi corazon, mandame un ":v" en los comentarios para saber.Eres grande ... pero Cristo lo es mas XD.
+- (5 CICLO) Ahora que puedo ver como era antes , puedo decir que ser alguien que estudia Computer Science no es facil pero es algo que me gusta.Las cosas pasan por algo ...
 
 ## Mis redes sociales 💎💎💎
-<img src="steam.png" alt="" width="39" height="39" align="left"><H2> [Auky](https://steamcommunity.com/profiles/76561198416421609/)</H2>
-<img src="intagram.png" alt="" width="39" height="39" align="left"><H2> [Auky_216](https://www.instagram.com/auky_216/?hl=es-la)</H2>
-<img src="youtube.png" alt="" width="39" height="39" align="left"><H2> [AUKY](https://www.youtube.com/channel/UCv6jAX-Z8kgFbBxBJ5ddF7Q)</H2>
+<img src="steam.png" alt="" width="39" height="39" align="left"><H2> [elgranauqui](https://steamcommunity.com/profiles/76561198416421609/)</H2>
+<img src="intagram.png" alt="" width="39" height="39" align="left"><H2> [BlueLabel]([https://steamcommunity.com/profiles/76561199345723886/](https://steamcommunity.com/profiles/76561199345723886/))</H2>
+</H2>
