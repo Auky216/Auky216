@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Auky216/Auky216/output/snake.svg" alt="Snake animation" />
+
 
 ###
