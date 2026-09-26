@@ -1,56 +1,72 @@
-<h2 align="left">Hi 👋!  I am Adrian</h2>
+<div align="center">
 
-###
+<h1>Hi, I'm Adrian 👋</h1>
+<p><strong>Software · Artificial Intelligence · UI Design</strong></p>
+
+</div>
+
+<table>
+<tr>
+<td width="64%" valign="middle">
+<h2>About me</h2>
+<p>I'm passionate about programming, especially artificial intelligence and software development.</p>
+<p>What I enjoy most is designing and building websites with beautiful UIs — thoughtful layouts, clean typography, and details that make every interaction feel right.</p>
+<p>Always learning, experimenting, and turning ideas into things you can use.</p>
+<br>
+<a href="https://www.pinterest.com/pin/873416921492196506/">Pinterest ↗ · Visual inspiration</a>
+</td>
+<td width="36%" align="center">
+<img src="./9d7cc85dfcf0ebf37316a4c23d5dac17.jpg" width="280" alt="City skyline, green parks, and a sky filled with clouds" />
+</td>
+</tr>
+</table>
+
+<h2 align="center">Tech &amp; Creative Toolkit</h2>
+<p align="center">Technologies and tools I enjoy exploring and building with.</p>
+
+<p align="center"><strong>Web &amp; UI</strong></p>
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,typescript,javascript,html,css,tailwindcss,figma&amp;theme=dark&amp;perline=8" width="480" alt="Next.js, React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Figma" />
+</p>
+
+<p align="center"><strong>Software &amp; Systems</strong></p>
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,nodejs,supabase,postgresql,python,cpp,c,matlab,linux,bash,git,github,docker,vscode,postman,vercel&amp;theme=dark&amp;perline=8" width="480" alt="NestJS, Node.js, Supabase, PostgreSQL, Python, C++, C, MATLAB, Linux, Bash, Git, GitHub, Docker, VS Code, Postman, Vercel" />
+</p>
+
+<p align="center"><strong>AI &amp; Machine Learning</strong></p>
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,deepseek,grok,mistral,microsoftcopilot,cursor,huggingface,ollama,langchain,llamaindex,pytorch,tensorflow,scikitlearn,jupyter&amp;theme=dark&amp;perline=8" width="480" alt="ChatGPT, Claude, Gemini, DeepSeek, Grok, Mistral, Microsoft Copilot, Cursor, Hugging Face, Ollama, LangChain, LlamaIndex, PyTorch, TensorFlow, scikit-learn, Jupyter" />
+</p>
+
+<br>
+
+<table width="100%">
+<tr>
+<th width="34%" align="left">Languages</th>
+<th width="66%" align="left">Profile Summary</th>
+</tr>
+<tr>
+<td valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Auky216&amp;theme=tokyonight" width="100%" alt="Languages by repository" />
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Auky216&amp;theme=tokyonight" width="100%" alt="Languages by commits" />
+</td>
+<td valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Auky216&amp;theme=tokyonight" width="100%" alt="GitHub profile summary and contribution history" />
+<br>
+<img src="https://streak-stats.demolab.com?user=Auky216&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="GitHub contribution streak" />
+</td>
+</tr>
+</table>
+
+<h2 align="center">Contributions</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Auky216&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Auky216&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Auky216/Auky216/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Auky216/Auky216/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Auky216/Auky216/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake following my GitHub contribution grid" />
+</picture>
+<p><a href="https://github.com/Auky216/Auky216/actions/workflows/snake.yml">Snake animation · Generation status ↗</a></p>
 </div>
-
-###
-
-<img align="right" height="150" src="https://c.tenor.com/PtODKM5uDtoAAAAC/tenor.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/utecino2021/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/SMX7vqcjZu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/adrian-antonio-auqui-perez-a079b2291/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-
-
-###
