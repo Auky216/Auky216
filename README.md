@@ -13,7 +13,9 @@
 <p>What I enjoy most is designing and building websites with beautiful UIs — thoughtful layouts, clean typography, and details that make every interaction feel right.</p>
 <p>Always learning, experimenting, and turning ideas into things you can use.</p>
 <br>
-<a href="https://www.pinterest.com/pin/873416921492196506/">Pinterest ↗ · Visual inspiration</a>
+<a href="https://www.pinterest.com/adrianauquiperez/">
+<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&amp;logo=pinterest&amp;logoColor=white" alt="Pinterest · Adrian Auqui Perez" />
+</a>
 </td>
 <td width="36%" align="center">
 <img src="./9d7cc85dfcf0ebf37316a4c23d5dac17.jpg" width="280" alt="City skyline, green parks, and a sky filled with clouds" />
